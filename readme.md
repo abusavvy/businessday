@@ -46,6 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
  | Name | Age | Style |
 |----------|-----|----|
 | Alice | 24 | Green|
-| Bob | 30 | red|
-|dele| 45| brow|
+| Bob | 30 | Red|
+|dele| 45| Brown|
 
